@@ -488,4 +488,4 @@ ListTile(
 Item terakhir pada menu samping adalah opsi "Keluar", dengan ikon pintu keluar (`Icons.exit_to_app`). Jika item ini ditekan, pengguna akan diarahkan kembali ke halaman login (`Loginpage`) menggunakan `Navigator.pushReplacement`.
 
 ### ScreenShoot
-[Screenshoot 1](pertemuan3(1).png)
+![Screenshoot 1](pertemuan3(1).png)
